@@ -1,2 +1,2 @@
-# Objects-Arrays-Forms
+# Objects-Arrays-Tables
 Exercises for Creating Object Literals, Making Constructors, and rendering Forms
